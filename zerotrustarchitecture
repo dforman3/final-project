@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Zero Trust Architecture</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Zero Trust Architecture</h1>
+    </header>
+    <main>
+        <img src="https://images.unsplash.com/photo-1581091870622-2d84553b0413?auto=format&fit=crop&w=1600&q=80" 
+             alt="IT Professionals Around Computer" style="width:100%; max-height:500px; object-fit:cover;">
+        <p style="text-align:center; margin-top:20px;">Protecting healthcare systems with a modern security model: Never trust, always verify.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Benefits - Zero Trust</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #00c6ff, #0072ff); /* blue gradient */
+            color: white;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px 20px;
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+        }
+        ul {
+            font-size: 1.2em;
+            list-style-type: disc;
+            margin-top: 20px;
+            padding-left: 40px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benefits</h1>
+    </header>
+    <main>
+        <p><strong>Benefits of Zero Trust Architecture include:</strong></p>
+        <ul>
+            <li>Stopping hackers from stealing personal information</li>
+            <li>Stops hackers who do get into the system immediately</li>
+            <li>Can work in a lot of fields of business such as banks, hospitals, and government agencies</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Real Life Scenarios - Zero Trust</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #e0eafc, #cfdef3);
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px 30px;
+        }
+        header h1 {
+            font-size: 2.8em;
+            color: #2c3e50;
+            margin-bottom: 0;
+        }
+        .example {
+            background: #ffffff;
+            max-width: 850px;
+            margin: 30px auto;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+        }
+        .example h2 {
+            font-size: 1.6em;
+            color: #34495e;
+            margin-bottom: 15px;
+        }
+        .example p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 25px;
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Real Life Scenarios</h1>
+    </header>
+
+    <section class="example">
+        <h2>Case Study: Google and BeyondCorp</h2>
+        <p>Google pioneered the Zero Trust approach through its <strong>BeyondCorp</strong> initiative, which shifted security away from network location and toward user and device authentication. Employees must verify their identity and the health of their device before accessing any system. This model has allowed Google to reduce its reliance on VPNs and maintain high levels of security even during major cyber threats.</p>
+    </section>
+
+    <section class="example">
+        <h2>Hypothetical Scenario: A Hospital Thwarts a Breach</h2>
+        <p>In a modern hospital using Zero Trust Architecture, an external attacker attempts to gain access to patient records. Despite acquiring a staff member’s password, the system immediately flags the login attempt due to unverified device status and unusual location. Access is denied, and an alert is triggered, allowing IT staff to respond instantly — preventing data theft and maintaining patient privacy.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Future Possibilities - Zero Trust</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #d1d1d1, #808080); /* silver gradient */
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px 30px;
+        }
+        header h1 {
+            font-size: 2.8em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        main {
+            background: #f5f5f5;
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+        }
+        ul {
+            font-size: 1.1em;
+            list-style-type: none;
+            padding-left: 0;
+            line-height: 1.8;
+        }
+        ul li {
+            background: url('https://upload.wikimedia.org/wikipedia/commons/a/a0/Arrow_right.svg') no-repeat left center;
+            padding-left: 30px;
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 25px;
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Future Possibilities</h1>
+    </header>
+
+    <main>
+        <p>As Zero Trust Architecture continues to evolve, several exciting possibilities are on the horizon:</p>
+        <ul>
+            <li>AI and machine learning integration for even more intelligent, real-time threat detection.</li>
+            <li>Expansion into more industries, including IoT, smart cities, and autonomous vehicles.</li>
+            <li>Seamless integration with cloud-native environments and advanced quantum encryption standards.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Slide - Zero Trust</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f4f4f4;
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px 30px;
+        }
+        header h1 {
+            font-size: 2.8em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        main {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 40px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        main img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 25px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        iframe {
+            width: 100%;
+            height: 450px;
+            border: none;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Zero Trust Architecture: A Modern Solution</h1>
+    </header>
+
+    <main>
+        <p>To understand more about Zero Trust and its real-world impact, check out this video below:</p>
+        
+        <!-- Embedded YouTube Video -->
+        <iframe src="https://www.youtube.com/embed/yn6CPQ9RioA" title="Zero Trust Architecture Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <p>Additionally, here’s an insightful image that highlights the key concepts behind Zero Trust Architecture:</p>
+
+        <!-- Image -->
+        <img src="https://images.app.goo.gl/jRFq1bJU4ANhpdkp7" alt="Zero Trust Concept" />
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
