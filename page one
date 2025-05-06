@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Zero Trust Architecture</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Zero Trust Architecture</h1>
+    </header>
+    <main>
+        <img src="https://images.unsplash.com/photo-1581091870622-2d84553b0413?auto=format&fit=crop&w=1600&q=80" 
+             alt="IT Professionals Around Computer" style="width:100%; max-height:500px; object-fit:cover;">
+        <p style="text-align:center; margin-top:20px;">Protecting healthcare systems with a modern security model: Never trust, always verify.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 CyberHealth Group</p>
+    </footer>
+</body>
+</html>
